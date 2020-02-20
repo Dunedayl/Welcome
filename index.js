@@ -11,13 +11,13 @@ const {
 const bot = new Client();
 const ytdl = require("ytdl-core");
 
-const userid = '371670423999610880'; // ID SANI 
-const VoiceChannelID = '622095079007584271'; // MAIN VOICE SERVER ID 
-const ServerID = '622095079007584267' // MAIN Server ID 
+// const userid = '371670423999610880'; // ID SANI 
+// const VoiceChannelID = '622095079007584271'; // MAIN VOICE SERVER ID 
+// const ServerID = '622095079007584267' // MAIN Server ID 
 
-//const userid = '261614952115077123'; // MY ID 
-//const VoiceChannelID = '667010725255970849'; // test server VOICE SERVER ID 
-//const ServerID = '667010724685414410' // test server ID 
+const userid = '261614952115077123'; // MY ID 
+const VoiceChannelID = '667010725255970849'; // test server VOICE SERVER ID 
+const ServerID = '667010724685414410' // test server ID 
 
 var servers = {};
 
