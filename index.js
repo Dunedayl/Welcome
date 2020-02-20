@@ -6,7 +6,7 @@ const {
 const {
     PREFIX,
     token,
-} = require('./config.json');
+} = require('./config copy.json');
 
 const bot = new Client();
 const ytdl = require("ytdl-core");
