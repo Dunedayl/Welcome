@@ -3,10 +3,10 @@ const {
     Attachment
 } = require('discord.js');
 
-const {
-    PREFIX,
-    token,
-} = require('./config copy.json');
+// const {
+//     PREFIX,
+//     token,
+// } = require('./config copy.json');
 
 const bot = new Client();
 const ytdl = require("ytdl-core");
