@@ -3,6 +3,8 @@ const {
     Attachment
 } = require('discord.js');
 
+require('dotenv').config();
+
 // const {
 //     PREFIX,
 //     token,
